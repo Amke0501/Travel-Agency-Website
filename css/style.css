@@ -1013,3 +1013,13 @@ button {
 .copyright_text a:hover {
     color: #e27141;
 }
+.header_section {
+  position: relative;
+  z-index: 1000;
+}
+.menu_main ul li {
+  list-style: none;
+}
+.menu_main ul li a {
+  text-decoration: none;
+}
